@@ -1,0 +1,5 @@
+Main contributor of the original repository:
+Pablo Trinidad
+
+Contributor of this  clone repository:
+Marlon Ramirez
